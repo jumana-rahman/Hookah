@@ -1,0 +1,1035 @@
+/* // Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* BANNER PART START */
+    .banner_text p::before {
+        transform: translate(-50%, -50%);
+    }
+    .banner_text h1 {
+        font-size: 51px;
+        line-height: 50px;
+    }
+    .banner_text p::after {
+        left: 75px;
+        transform: translate(-50%, -50%);
+    }
+    .carousel-control-next .icon-design {
+        margin-right: 754px;
+    }
+    .carousel-control-prev .icon-design {
+        margin-left: 741px;
+    }
+    /* BANNER PART END */
+
+    /* STORY PART START */
+    .story_content {
+        margin-left: 105px;
+    }
+    .mug_button a i {
+        bottom: 230px;
+        right: -19px;
+        font-size: 14px;
+        transform: translate(-50%, -50%);
+    }
+    .story_vid img {
+        height: 80px;
+        width: 80px;
+    }
+    .story_vid_hover {
+        height: 80px;
+        width: 80px;
+    }
+    .story_vid_hover::before {
+        top: 41px;
+        left: 42px;
+        transform: translate(-50%, -50%);
+    }
+    .story_vid_hover a i {
+        top: 41px;
+        left: 42px;
+        transform: translate(-50%, -50%);
+    }
+    /* STORY PART END */
+
+    /* HOUR PART START */
+    .hour_text {
+        top: 37%;
+        left: 75%;
+        transform: translate(-50%, -50%);
+    }
+    /* HOUR PART END */
+
+    /* RESERVATION PART START */
+    .reservation_image img {
+        width: 100%;
+    }
+    /* RESERVATION PART ENd */
+
+    /* TESTIMONIAL PART START */
+    .testimonial_text p {
+        width: 385px;
+    }
+    .carousel-control-next {
+        right: 9px;
+    }
+    /* TESTIMONIAL PART END */
+
+    /* FOOTER PART START */
+    .footer_icon ul::before {
+        width: 335px;
+        right: -9px;
+    }
+    .footer_icon ul::after {
+        width: 335px;
+        left: -8px;
+    }
+    /* FOOTER PART END */
+
+    /* CONTACT PART START */
+    .contact_text p::after {
+        width: 50px;
+        transform: translate(-50%, -50%);
+        left: 350px;
+    }
+    .contact_button a {
+        top: 90px;
+        left: 351px;
+        transform: translate(-50%, -50%);
+    }
+    /* CONTACT PART END */
+}
+
+/* // Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* HEADER PART START */
+    .navbar-light .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+        outline: 0;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #000;
+    }
+    .nav-item {
+        padding: 11px 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        line-height: 27px;
+        padding-left: 0;
+    }
+    /* HEADER PART END */
+
+    /* BANNER PART START */
+    .banner_overly {
+        padding: 145px 0px 219px;
+        background: rgba(0, 0, 0, 0.7);
+    }
+    .banner_text h4 {
+        font-size: 24px;
+    }
+    .banner_text h1 {
+        font-size: 46px;
+        line-height: 47px;
+    }
+    .banner_text p::before {
+        left: 81%;
+        width: 73px;
+        transform: translate(-50%, -50%);
+    }
+    .banner_text p::after {
+        left: 19%;
+        width: 73px;
+        transform: translate(-50%, -50%);
+    }
+    .carousel-control-prev .icon-design {
+        margin-top: 435px;
+        margin-left: 690px;
+    }
+    .carousel-control-next .icon-design {
+        margin-top: 435px;
+        margin-right: 690px;
+    }
+    /* BANNER PART END */
+
+    /* STORY PART START */
+    #story {
+        padding: 60px 0px;
+    }
+    .story_vid {
+        margin-bottom: 22px;
+    }
+    .mug_button a i {
+        bottom: 231px;
+        right: 300px;
+        transform: translate(-50%, -50%);
+    }
+    .review_text {
+        padding: 20px 0px;
+    }
+    /* STORY PART END */
+
+    /* HOUR PART START */
+    .hour_overly {
+        padding: 40px 0px;
+    }
+    .hour_overly::before {
+        top: 521px;
+        height: 55%;
+        width: 100%;
+    }
+    .hour_text {
+        left: 51%;
+    }
+    .team_heading h2 {
+        font-size: 30px;
+    }
+    .hr_border {
+        border-right: 0!important;
+    }
+    .hour_bg {
+        margin-left: 47px;
+    }
+    .hr_text h3 {
+        padding-left: 251px;
+    }
+    /* HOUR PART END */
+
+    /* TEAM PART START */
+    #story {
+        padding: 50px 0px;
+    }
+    .carousel-indicators li {
+        width: 12px;
+        height: 12px;
+        top: 57px;
+    }
+    /* TEAM PART END */
+
+    /* RESERVATION PART START */
+    #reservation {
+        padding: 60px 0px 30px;
+    }
+    .reservation_image img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    /* RESERVATION PART END */
+
+    /* TESTIMONIAL PART START */
+    .testimonial_text p {
+        width: 400px;
+    }
+    .carousel-control-prev {
+        left: -51px;
+    }
+    .carousel-control-next {
+        right: -51px;
+    }
+    /* TESTIMONIAL PART END */
+
+    /* CONTACT PART START */
+    .contact_overly {
+        padding: 245px 0px 35px;
+    }
+    .contact_text p::after {
+        left: 354px;
+        transform: translate(-50%, -50%);
+    }
+    .contact_button a {
+        top: 90px;
+        left: 352px;
+        transform: translate(-50%, -50%);
+    }
+    .countdown_text {
+        margin-bottom: 35px;
+    }
+    /* CONTACT PART END */
+
+    /* FOOTER PART START */
+    .footer_content p {
+        font-size: 11px;
+        padding-bottom: 14px;
+    }
+    .footer_icon ul::before {
+        width: 247px;
+        right: -30px;
+    }
+    .footer_icon ul::after {
+        width: 247px;
+        left: -30px;
+    }
+    /* FOOTER PART END */
+}
+
+/* // Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* HEADER PART START */
+    .navbar-light .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+        outline: 0;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #000;
+    }
+    .nav-item {
+        padding: 8px 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px;
+        line-height: 25px;
+        padding-left: 0;
+    }
+    /* HEADER PART END */
+
+    /* BANNER PART START */
+    .banner_overly {
+        padding: 135px 0px 181px;
+    }
+    .banner_text h4 {
+        font-size: 18px;
+    }
+    .banner_text h1 {
+        font-size: 33px;
+        padding: 13px 0px;
+        line-height: 33px;
+    }
+    .banner_text p {
+        font-size: 19px;
+    }
+    .banner_text p::before {
+        left: 87%;
+        width: 73px;
+        transform: translate(-50%, -50%);
+    }
+    .banner_text p::after {
+        left: 13%;
+        width: 73px;
+        transform: translate(-50%, -50%);
+    }
+    .carousel-control-prev .icon-design {
+        padding: 15px 17px;
+        font-size: 13px;
+        margin-top: 45px;
+        margin-left: 501px;
+    }
+    .carousel-control-next .icon-design {
+        padding: 15px 17px;
+        font-size: 13px;
+        margin-top: 45px;
+        margin-right: 494px;
+    }
+    /* BANNER PART END */
+
+    /* STORY PART START */
+    #story {
+        padding: 40px 0px;
+    }
+    .mug img {
+        height: 347px;
+        width: 470px;
+        margin-left: 25px;
+    }
+    .mug_button::before {
+        top: 50%;
+        left: 45%;
+        height: 55px;
+        width: 55px;
+        transform: translate(-50%, -45%);
+    }
+    .mug_button a i {
+        padding: 18px;
+        bottom: 36%;
+        right: 46%;
+        font-size: 10px;
+        transform: translate(-50%, -50%);
+    }
+    .mug::before {
+        top: -118px;
+        left: 51px;
+        height: 401px;
+        width: 155px;
+    }
+    .story_content {
+        margin-top: 7px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .story_heading h2 {
+        font-size: 25px;
+    }
+    .story_heading .line_one {
+        width: 60px;
+    }
+    .story_text p {
+        font-size: 12px;
+        line-height: 23px;
+        padding-bottom: 23px;
+    }
+    .story_text a {
+        padding: 13px 18px;
+        font-size: 11px;
+    }
+    .story_vid {
+        margin-bottom: 24px;
+    }
+    .story_vid_hover {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .review_text {
+        margin-bottom: 40px;
+    }
+    .review_text h3 {
+        font-size: 30px;
+    }
+    .review_text p {
+        font-size: 13px;
+    }
+    /* STORY PART END */
+
+    /* HOUR PART START */
+    .hour_overly {
+        padding: 23px 0px 0px;
+    }
+    .team_heading h2 {
+        font-size: 25px;
+    }
+    .hour_bg img {
+	    height: 240px;
+	    width: 240px;
+	    margin-left: 134px;
+    }
+    .hour_text {
+        top: 36%;
+        left: 51%;
+        transform: translate(-59%, -50%);
+    }
+    .hour_text h2 {
+        font-size: 32px;
+        padding-bottom: 4px;
+    }
+    .hour_text h3 {
+        font-size: 13px;
+    }
+    .hr_border {
+        border-right: 0!important;
+    }
+    .hr_text h3 {
+        padding-left: 160px;
+        font-size: 25px;
+    }
+    .time {
+        margin-top: 57px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .time h4 {
+        font-size: 20px;
+    }
+    .time p {
+        font-size: 16px;
+    }
+    .hour_overly::before {
+        top: 1053px;
+        right: 1px;
+        height: 31%;
+        width: 100%;
+    }
+    /* HOUR PART END */
+
+    /* TEAM PART START */
+    .team_img img {
+        width: 200px;
+        height: 200px;
+    }
+    .team_text h3 {
+        font-size: 18px;
+        padding: 12px 0px 10px;
+    }
+    .team_text p {
+        font-size: 12px;
+    }
+    .carousel-indicators li {
+        width: 7px;
+        height: 7px;
+        top: 47px;
+        left: -2px;
+    }
+    /* TEAM PART END */
+
+    /* GALLERY PART START */
+    .gallery_overly {
+        padding: 105px 0px;
+    }
+    .gallery_heading h3 {
+        font-size: 28px;
+    }
+    .gallery_heading p {
+        font-size: 10px;
+    }
+    #pictures {
+        padding: 40px 0px;
+    }
+    .pic_btn a {
+        padding: 13px 18px;
+        font-size: 11px;
+    }
+    /* GALLERY PART END */
+
+    /* RESERVATION PART START */
+    #reservation {
+        padding: 40px 0px;
+    }
+    .reservation_image img {
+        width: 100%;
+    }
+    .reserve_item {
+        margin-left: 0px;
+        text-align: center;
+        margin-top: 25px;
+    }
+    .reserve_heading h2 {
+        font-size: 25px;
+    }
+    .line_one {
+        width: 110px;
+    }
+    .name {
+        font-size: 12px;
+        text-align: center;
+    }
+    .number {
+        font-size: 12px;
+        text-align: center;
+    }
+    .textarea {
+        font-size: 12px;
+        text-align: center;
+    }
+    .reserve_btn {
+        padding: 5px 10px 5px 10px;
+        color: #fff;
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    /* RESERVATION PART END */
+
+    /* TESTIMONIAL PART START */
+    #testimonial {
+        padding: 40px 0px;
+    }
+    .testimonial_content {
+        display: block;
+    }
+    .testimonial_text {
+        text-align: center;
+    }
+    .testimonial_text p {
+        font-size: 14px;
+        line-height: 24px;
+        padding-top: 10px;
+        padding-bottom: 21px;
+    }
+    .testimonial_text h3 {
+        font-size: 20px;
+        padding-bottom: 7px;
+    }
+    .testimonial_text h4 {
+        font-size: 14px;
+        padding-bottom: 12px;
+    }
+    .carousel-control-prev {
+        left: -34px;
+        top: 324px;
+    }
+    .carousel-control-next {
+        right: -34px;
+        top: 324px;
+    }
+    /* TESTIMONIAL PART END */
+
+    /* CONTACT PART START */
+    .contact_overly {
+        padding: 163px 0px 50px;
+    }
+    .contact_text h3 {
+        font-size: 25px;
+        line-height: 26px;
+    }
+    .contact_text p {
+        font-size: 12px;
+        padding: 14px 0px 0px;
+    }
+    .contact_text p::after {
+        top: 49px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .contact_button img {
+        width: 298px;
+        height: 178px;
+        text-align: center;
+    }
+    .contact_button a {
+        top: 40%;
+        left: 50%;
+        font-size: 10px;
+        transform: translate(-50%, -50%);
+    }
+    .countdown_text {
+        margin-bottom: 35px;
+    }
+    .countdown_text h2 {
+        font-size: 36px;
+        padding-bottom: 7px;
+    }
+    .countdown_text h3 {
+        font-size: 18px;
+    }
+    /* CONTACT PART END */
+
+    /* FOOTER PART START */
+    #story_footer {
+        padding: 35px 0px 23px;
+    }
+    .footer_content h3 {
+        font-size: 17px;
+        padding-bottom: 36px;
+    }
+    .footer_content p {
+        font-size: 13px;
+        padding-bottom: 14px;
+    }
+    .footer_icon ul li {
+        margin-left: 9px;
+        height: 34px;
+        width: 34px;
+    }
+    .footer_icon ul li a i {
+        margin-top: 11px;
+        font-size: 13px;
+    }
+    .footer_icon ul::before {
+        width: 150px;
+        top: 17px;
+        right: -13px;
+    }
+    .footer_icon ul::after {
+        width: 150px;
+        top: 17px;
+        left: -13px;
+    }
+    .footer_text p {
+        padding-top: 8px;
+        font-size: 11px;
+    }
+    /* FOOTER PART END */
+
+    /* BACK-TO-TOP */
+    .back-to-top {
+        right: 15px;
+        bottom: 15px;
+        height: 39px;
+        width: 39px;
+        line-height: 35px;
+    }
+    .back-to-top a i {
+        font-size: 14px;
+    }
+    /* BACK-TO-TOP */
+}
+
+/* // Extra small devices  */
+@media (max-width: 575.98px) {
+    /* HEADER PART START */
+    .navbar-light .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+        outline: 0;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #000;
+    }
+    .nav-item {
+        padding: 8px 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px;
+        line-height: 25px;
+        padding-left: 0;
+    }
+    /* HEADER PART END */
+
+    /* BANNER PART START */
+    .banner_overly {
+        padding: 109px 0px 181px;
+    }
+    .banner_text h4 {
+        font-size: 19px;
+    }
+    .banner_text h1 {
+        font-size: 39px;
+        line-height: 38px;
+        padding: 21px 0px;
+    }
+    .banner_text p {
+        font-size: 19px;
+        display: inline-block;
+    }
+    .banner_text p::before {
+        left: 134px;
+        width: 73px;
+        transform: translate(-50%, -50%);
+    }
+    .banner_text p::after {
+        left: -48px;
+        width: 73px;
+        transform: translate(-50%, -50%);
+    }
+    .carousel-control-prev .icon-design {
+        padding: 15px 17px;
+        font-size: 13px;
+        margin-top: 280px;
+        margin-left: 239px;
+        display: inline-block;
+    }
+    .carousel-control-next .icon-design {
+        padding: 15px 17px;
+        font-size: 13px;
+        margin-top: 280px;
+        margin-right: 250px;
+        display: inline-block;
+    }
+    /* BANNER PART END */
+
+    /* STORY PART START */
+    #story {
+        padding: 28px 0px;
+    }
+    .mug img {
+        height: 328px;
+        width: 427px;
+        margin-left: -27px;
+    }
+    .mug_button::before {
+        top: 132px;
+        left: 137px;
+        height: 55px;
+        width: 55px;
+    }
+    .mug_button a i {
+        padding: 18px;
+        bottom: 122px;
+        right: 80px;
+        font-size: 10px;
+        transform: translate(-50%, -50%);
+    }
+    .mug::before {
+        top: -123px;
+        left: -16px;
+        height: 390px;
+        width: 145px;
+    }
+    .story_content {
+        margin-top: 7px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .story_heading h2 {
+        font-size: 25px;
+    }
+    .story_heading .line_one {
+        width: 60px;
+    }
+    .story_text p {
+        font-size: 12px;
+        line-height: 23px;
+        padding-bottom: 23px;
+    }
+    .story_text a {
+        padding: 10px 15px;
+        font-size: 10px;
+    }
+    .story_vid {
+        margin-bottom: 24px;
+    }
+    .story_vid_hover {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .review_text {
+        margin-bottom: 40px;
+    }
+    .review_text h3 {
+        font-size: 30px;
+    }
+    .review_text p {
+        font-size: 13px;
+    }
+    /* STORY PART END */
+
+    /* HOUR PART START */
+    .hour_overly {
+        padding: 23px 0px 0px;
+    }
+    .team_heading h2 {
+        font-size: 25px;
+    }
+    .hour_bg img {
+        height: 196px;
+        width: 194px;
+        margin-left: 45px;
+    }
+    .hour_text {
+        top: 35%;
+        left: 49%;
+    }
+    .hour_text h2 {
+        font-size: 25px;
+        padding-bottom: 3px;
+    }
+    .hour_text h3 {
+        font-size: 10px;
+    }
+    .hr_border {
+        border-right: 0!important;
+    }
+    .hr_text h3 {
+        padding-left: 70px;
+        font-size: 22px;
+    }
+    .time {
+        margin-top: 40px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .time h4 {
+        font-size: 20px;
+    }
+    .time p {
+        font-size: 16px;
+    }
+    .hour_overly::before {
+        top: 910px;
+        right: 1px;
+        height: 31%;
+        width: 100%;
+    }
+    /* HOUR PART END */
+
+    /* TEAM PART START */
+    .team_img img {
+        width: 200px;
+        height: 200px;
+    }
+    .team_text h3 {
+        font-size: 18px;
+        padding: 12px 0px 10px;
+    }
+    .team_text p {
+        font-size: 12px;
+    }
+    .carousel-indicators li {
+        width: 7px;
+        height: 7px;
+        top: 47px;
+        left: -2px;
+    }
+    /* TEAM PART END */
+
+    /* GALLERY PART START */
+    .gallery_overly {
+        padding: 105px 0px;
+    }
+    .gallery_heading h3 {
+        font-size: 28px;
+    }
+    .gallery_heading p {
+        font-size: 10px;
+    }
+    #pictures {
+        padding: 40px 0px;
+    }
+    .pic_btn a {
+        padding: 10px 14px;
+        font-size: 10px;
+    }
+    /* GALLERY PART END */
+
+    /* RESERVATION PART START */
+    #reservation {
+        padding: 40px 0px;
+    }
+    .reservation_image img {
+        width: 100%;
+    }
+    .reserve_item {
+        margin-left: 0px;
+        text-align: center;
+        margin-top: 25px;
+    }
+    .reserve_heading h2 {
+        font-size: 25px;
+    }
+    .line_one {
+        width: 110px;
+    }
+    .name {
+        font-size: 10px;
+        text-align: center;
+    }
+    .number {
+        font-size: 10px;
+        text-align: center;
+    }
+    .textarea {
+        font-size: 10px;
+        text-align: center;
+    }
+    .reserve_btn {
+        padding: 5px 10px 5px 10px;
+        color: #fff;
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    /* RESERVATION PART END */
+
+    /* TESTIMONIAL PART START */
+    #testimonial {
+        padding: 40px 0px;
+    }
+    .testimonial_content {
+        display: block;
+    }
+    .testimonial_text {
+        text-align: center;
+    }
+    .testimonial_text p {
+        width: 257px;
+        font-size: 12px;
+        line-height: 20px;
+        padding-top: 10px;
+        padding-bottom: 19px;
+    }
+    .testimonial_text h3 {
+        font-size: 20px;
+        padding-bottom: 7px;
+    }
+    .testimonial_text h4 {
+        font-size: 14px;
+        padding-bottom: 12px;
+    }
+    .carousel-control-prev {
+        left: -123px;
+        top: 110px;
+        display: inline-block;
+    }
+    .carousel-control-next {
+        right: 98px;
+        top: 110px;
+        display: inline-block;
+    }
+    /* TESTIMONIAL PART END */
+
+    /* CONTACT PART START */
+    .contact_overly {
+        padding: 163px 0px 50px;
+    }
+    .contact_text h3 {
+        font-size: 25px;
+        line-height: 26px;
+    }
+    .contact_text p {
+        font-size: 12px;
+        padding: 14px 0px 0px;
+    }
+    .contact_text p::after {
+        top: 49px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .contact_button img {
+        width: 298px;
+        height: 178px;
+        text-align: center;
+    }
+    .contact_button a {
+        top: 40%;
+        left: 50%;
+        font-size: 10px;
+        transform: translate(-50%, -50%);
+    }
+    .countdown_text {
+        margin-bottom: 35px;
+    }
+    .countdown_text h2 {
+        font-size: 30px;
+        padding-bottom: 7px;
+    }
+    .countdown_text h3 {
+        font-size: 16px;
+    }
+    /* CONTACT PART END */
+
+    /* FOOTER PART START */
+    #story_footer {
+        padding: 35px 0px 23px;
+    }
+    .footer_content h3 {
+        font-size: 14px;
+        padding-bottom: 30px;
+    }
+    .footer_content p {
+        font-size: 12px;
+        padding-bottom: 12px;
+    }
+    .footer_icon ul li {
+        margin-left: 7px;
+        height: 32px;
+        width: 32px;
+    }
+    .footer_icon ul li a i {
+        margin-top: 11px;
+        font-size: 11px;
+    }
+    .footer_icon ul::before {
+        width: 62px;
+        top: 17px;
+        right: -16px;
+    }
+    .footer_icon ul::after {
+        width: 67px;
+        top: 17px;
+        left: -13px;
+    }
+    .footer_text p {
+        padding-top: 5px;
+        font-size: 9px;
+    }
+    /* FOOTER PART END */
+
+    /* BACK-TO-TOP */
+    .back-to-top {
+        right: 15px;
+        bottom: 15px;
+        height: 39px;
+        width: 39px;
+        line-height: 35px;
+    }
+    .back-to-top a i {
+        font-size: 14px;
+    }
+    /* BACK-TO-TOP */
+}
